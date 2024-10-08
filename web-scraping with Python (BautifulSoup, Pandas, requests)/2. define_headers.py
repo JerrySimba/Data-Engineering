@@ -8,5 +8,5 @@ headers = {
     'Accept-Language': 'en-US,en;q=0.5',
     'Connection': 'keep-alive',
     'DNT': '1',
-    'Upgrade-Insecure-Requests': '1'
+    'Upgrade-Insecure-Requests': '1' 
 }
