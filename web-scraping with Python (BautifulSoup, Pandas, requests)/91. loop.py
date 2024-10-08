@@ -1,4 +1,4 @@
-#loop through first ten pages
+#loop through first ten pages 
 for page in range(1, 11):  # Iterate through pages 1 to 10
     url = base_url.format(page)
     response = requests.get(url, headers=headers)
