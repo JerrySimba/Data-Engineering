@@ -2,7 +2,7 @@ product_divs = soup.find_all('div', class_='s-result-item')
 
 # Loop through each product div and extract the title, rating, and price
 for product in product_divs:
-    # Get product title
+    # Get product title 
     title_element = product.find('span', class_='a-size-medium a-color-base a-text-normal')
     title = title_element.get_text() if title_element else "N/A"
     
