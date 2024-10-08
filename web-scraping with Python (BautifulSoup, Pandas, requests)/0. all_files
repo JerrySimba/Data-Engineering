@@ -3211,3 +3211,89 @@ for page in range(1, 11):  # Iterate through pages 1 to 10
         print(f"Release Date: {release_date}")
         print(f"Ratings: {ratings_text}")
         print('-' * 40)  # Separator for readability
+
+#CSV for pages 1 & 10
+CSV 1
+
+Title,Release Date,Year,Ratings
+PlayStation 5 Console (PS5),1-Oct-22,2022,4.8
+PlayStation®5 console (slim) with EA SPORTS College Football 25,NULL,NULL,4.8
+PlayStation 5 Digital Edition - CFI-1102B,22-Oct-21,2021,4.7
+Xbox Series X Console (Renewed),15-Sep-23,2023,4.1
+PlayStation DualSense Wireless Controller - Sterling Silver,26-Jan-24,2024,4.7
+$150 PlayStation Store Gift Card [Digital Code],1-Feb-24,2024,4.6
+PlayStation DualSense® Wireless Controller - White,16-Jan-24,2024,4.4
+EA SPORTS College Football 25 - PlayStation 5,19-Jul-24,2024,4.5
+$250 PlayStation Store Gift Card [Digital Code],1-Feb-24,2024,4.6
+Metaphor: ReFantazio Collector's Edition - PlayStation 5,11-Oct-24,2024,NULL
+PlayStation Pulse Elite Wireless Headset,21-Feb-24,2024,4
+"Gaming Console Backpack for PS5 Slim, Travel Carry Case Bag for Playstation 5 Slim Console, Storage Backpack Compatible for PS5 Slim Disc & Digital Edition, Controllers, Game Cards & Accessories, Grey",NULL,NULL,4.1
+"2TB SN850P NVMe M.2 SSD Officially Licensed Storage Expansion for PS5 Consoles, up to 7,300MB/s, with heatsink - WDBBYV0020BNC-WRSN",NULL,NULL,4.8
+PlayStation®5 Digital Edition (Slim) – (Renewed Premium),NULL,NULL,3.6
+Madden NFL 25 - PlayStation 5,16-Aug-24,2024,4.5
+MARVEL’S SPIDER-MAN 2 – PS5 Standard Edition,20-Oct-23,2023,4.7
+"PS5 Wall Mount Kit with Charging Station, Compatible with PS5/PS5 Slim Disc & Digital Version, Dual Controller Chargers for Playstation 5 Accessories with Multi-Mode RGB Light and Headphone Hanger",NULL,NULL,4.3
+$200 PlayStation Store Gift Card [Digital Code],1-Feb-24,2024,4.6
+"Wireless Gaming Headset for PS5, PS4, PC, Mac, Switch, 2.4GHz Gaming Headsets with Bluetooth 5.4, Hidden ENC Noise Canceling Mic, 35H Battery, 3D Spatial Sound, 3.5mm Wired",NULL,NULL,4.6
+"PS5 / PS5 Slim Stand and Cooling Station, Controller Charging Station for Playstation 5 Console, PS5 Stand with Controller Charger for Disc & Digital, PS5 Holder with Cooling Fan and 3 USB Hubs",NULL,NULL,4.8
+"Controller Charger for PS5/PS5 Slim: PS5 Stand Cooling Fan and Controller Charger Station, PS5/PS5 Slim Accessories Vertical Charging Dock for PlayStation 5 Slim Console (White)",NULL,NULL,NULL
+Undisputed - PlayStation 5,NULL,NULL,NULL
+"Logitech G Astro A50 X Omni-Platform Wireless Gaming Headset + Base Station for PS5, Xbox, PC: PLAYSYNC Video & Audio Switcher, HDMI 2.1 4K 120Hz VRR, <24 bit/48 kHz, 24hr Battery, 2.4GHz & BT - Black",NULL,NULL,4.2
+"PS5 Cooling Fans, PlayStation 5 Cooling Fan Compatible with PS5 Discs Edition and Digital Edition (NOT for PS5 Slim)",NULL,NULL,4.4
+The Grinch Christmas Adventures - PlayStation 5,27-Sep-24,2024,NULL
+WRC 10 for PlayStation 5,21-Sep-21,2021,4.1
+God of War Ragnarök Launch Edition - PlayStation 5,9-Nov-22,2022,4.8
+Paw Patrol Grand Prix – PlayStation 5,7-Oct-22,2022,4.6
+No Man's Sky - PlayStation 5,7-Oct-22,2022,4.6
+Marvel's Midnight Suns Legendary Edition - PlayStation 5,2-Dec-22,2022,4.5
+Wreckfest - PlayStation 5,1-Jun-21,2021,4.5
+Access Controller - PlayStation 5,6-Dec-23,2023,4
+"S660 PCIe 4.0 500GB NVMe M.2 SSD for PS5 with Heatsink, Up to 5000MB/s, Suitable for PlayStation 5 Enthusiasts, Technology Enthusiasts, IT Professionals",NULL,NULL,4.5
+"PS5 NVMe Heatsink,M.2 2280 Cooler for The Playstation 5 Internal (black)",NULL,NULL,4.5
+"External SSD 1.0TB - Officially Licensed Product, Compatible with PS5 Consoles / PS4 Consoles - USB3.2 Gen2 Type A Compact Stick SSD SAO1.0U3B",NULL,NULL,4.2
+Sid Meier's Civilization® VII Deluxe Edition - PlayStation 5,6-Feb-25,2025,NULL
+PS5 Logo Underlay Sticker for Playstation 5 Console & PS Logo Vinyl Decal Sticker for DualSense Controller (Classic Retro-Look Color) - 2 Packs,NULL,NULL,4.7
+Persona 3 Reload: Collector’s Edition - PlayStation 5,2-Feb-24,2024,4.7
+EA Sports UFC 5 PS5 Game,1-Jan-23,2023,4.6
+
+
+CSV 2
+
+Title,Release date,Ratings,Price
+"Cat Ear Headset, Pink Gaming Headset with Retractable Mic",22-Oct,4.2,$59.99 
+Gaming Console Backpack for PS5 Slim,NULL,4.1,$36.98 
+for PlayStation 5 Slim Stand Vertical,23-Oct,5,$17.99 
+Transformers Galactic Trials - PlayStation 5,Oct-24,NULL,NULL
+Sony PlayStation Gift Card,NULL,4.7,NULL
+PRO-T5 Series 4TB USB 3.0 External Gaming Hard Drive,22-Oct,4.1,$69.99 
+LEFOR·Z Carrying Case Compatible with PS5/PS4,NULL,4.8,$32.99 
+HORI PlayStation 5 Fighting Stick Alpha,Aug-22,4.7,NULL
+External SSD 1.0TB,22-Oct,4.2,$99.99 
+Wreckfest - PlayStation 5,NULL,4.5,£443.00
+Game Drive for PS5 5TB External HDD,22-Oct,4.6,$129.99 
+Faceplate for PS5 Disc Edition,22-Oct,4.7,$28.99 
+PS5 Wall Mount Kit with Charging Station,22-Oct,4.6,$31.99 
+PS5 Logo Underlay Sticker,22-Oct,4.7,$9.99 
+Death end re;Quest Code Z - PlayStation 5,Jun-25,NULL,NULL
+Marvel's Midnight Suns Legendary Edition,NULL,4.5,£448.00
+God of War Ragnarök Launch Edition,NULL,4.8,£448.00
+Razer Kaira Pro Dual Wireless Gaming Headset,NULL,4.1,$79.95 
+PS5 Stand and Cooling Station,22-Oct,Rat,$39.99 
+WRC 10 for PlayStation 5,NULL,4.1,£444.00
+Controller Grips Compatible with PlayStation 5,NULL,3.3,NULL
+PDP RIFFMASTER Wireless Guitar Controller,Apr-24,4.4,NULL
+Undisputed - PlayStation 5,NULL,NULL,$59.99 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
